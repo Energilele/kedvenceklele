@@ -1,0 +1,100 @@
+body {
+    background-color: rgb(255, 255, 255);
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: larger;
+}
+
+p {
+    text-align: justify;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.kép {
+text-align: center;
+}
+
+.Egész {
+    text-align: center;
+}
+
+h1 {
+    color: skyblue;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+h2 {
+    color: skyblue;
+    text-align: center;
+}
+
+.pt1 {
+    color: rgb(0, 0, 0);
+}
+
+.pt2 {
+    color: rgb(0, 0, 0);
+}
+
+.pt3 {
+    color:rgb(0, 0, 0)
+}
+
+.Source {
+    color: rgb(0, 0, 0);
+    font-size: small;
+}
+
+#List {
+    color: rgb(0, 0, 0);
+}
+
+
+
+#List2 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+#linkek{
+    line-height: normal;
+   margin: auto;
+}
+a{
+    color: black;
+}
+a:link{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-variant: small-caps;
+    text-decoration: none;
+    font-size: 160%;
+    width: 500px;
+    text-align: center;
+}
+a:visited{
+    color: rgb(0, 0, 0);
+}
+a:hover{
+    color: skyblue;
+    background-color: rgb(114, 28, 131);
+    padding-bottom: 1px;
+}
+a:active{
+    background-color: rgb(146, 179, 223);
+}
+
+table, th, td{
+    border-spacing: 20px 10px ;
+    border: 3px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+    text-align: center;
+    vertical-align: left;
+    padding: 10px;
+    color: rgb(59, 36, 4);
+    margin: auto;
+}
